@@ -1,0 +1,22 @@
+body{
+    font-size: large;
+    text-align: center;
+    background-color: #8BBCCC;
+}
+.Intro{
+
+    font-weight: bold;
+    font-size: larger;
+}
+.Main{
+    text-decoration-line: underline;
+    font-style: italic;
+    color: #5C2E7E;
+}
+hr{
+    width: 30%;
+    border-width: 3px;
+    height: 1px;
+    border-style: none;
+    border-top-style: dotted;
+}
